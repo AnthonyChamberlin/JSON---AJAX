@@ -8,4 +8,8 @@
 
 ## JavaScript Code
 
+### Initial Variables and Event Listener containing New Request and renderHTML function call.
+
 <img width="898" alt="js1" src="https://user-images.githubusercontent.com/25688811/34890816-50da5e7e-f7cb-11e7-996d-306a769ec243.png">
+
+
