@@ -5,3 +5,7 @@
   - 3. Request onload function. What happens to the data once loaded, through an external function.
   - 4. Request Send.
   - 5. Error Handling with status codes.
+
+## JavaScript Code
+
+<img width="898" alt="js1" src="https://user-images.githubusercontent.com/25688811/34890816-50da5e7e-f7cb-11e7-996d-306a769ec243.png">
