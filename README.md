@@ -12,6 +12,6 @@
 
 <img width="898" alt="js1" src="https://user-images.githubusercontent.com/25688811/34890816-50da5e7e-f7cb-11e7-996d-306a769ec243.png">
 
-### renderHTML function, which iterates over existing data in JSON data. Nested looping is used to target objects within objects.
+### renderHTML function, which iterates over existing JSON data. Nested looping is used to target objects within objects.
 
 <img width="821" alt="js2" src="https://user-images.githubusercontent.com/25688811/34891187-819bea4a-f7cc-11e7-8f5a-3955581863ae.png">
